@@ -17,14 +17,13 @@ namespace DesafioProjetoHospedagem.Models
         {
             // TODO: Verificar se a capacidade é maior ou igual ao número de hóspedes sendo recebido
             // *IMPLEMENTE AQUI*
-            if (Suite.Capacidade<=hospedes.count)
+            if (Suite.Capacidade <= hospedes.Count)
             {
                 Hospedes = hospedes;
             }
             else
             {
-                // TODO: Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
-                // *IMPLEMENTE AQUI*
+                Console.WriteLine("O numeros de hospedes ultrapassou o numero de vagas");
             }
         }
 
@@ -51,7 +50,7 @@ namespace DesafioProjetoHospedagem.Models
             // *IMPLEMENTE AQUI*
             if (DiasReservados >=10)
             {
-                valor -= valor*0.1;
+                valor = Decimal.Multiply(valor, 0.9m);
             }
 
             return valor;

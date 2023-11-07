@@ -1,0 +1,14 @@
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfoInputs.cache
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfo.cs
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.csproj.CoreCompileInputs.cache
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\bin\Debug\net6.0\Hospedagem.exe
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\bin\Debug\net6.0\Hospedagem.deps.json
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\bin\Debug\net6.0\Hospedagem.runtimeconfig.json
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\bin\Debug\net6.0\Hospedagem.dll
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\bin\Debug\net6.0\Hospedagem.pdb
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.dll
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\refint\Hospedagem.dll
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.pdb
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\Hospedagem.genruntimeconfig.cache
+D:\ProjetosTreino\Dio-Hotel\Hospedagem\obj\Debug\net6.0\ref\Hospedagem.dll
